@@ -1,1 +1,1 @@
-# redictive-Maintenance-using-Machine-Learning
+# predictive-Maintenance-using-Machine-Learning
